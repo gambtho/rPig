@@ -2,8 +2,12 @@
 
 Simple reverse proxy
 
-## Getting Started
+## Plans
 
-### Usage
-
-## Acknowledgments
+- [ ] working load balancer with tests
+- [ ] deploy load balancer with backend services to AKS cluster
+- [ ] integration tests to deploy and validate
+- [ ] add reverse proxy
+- [ ] performance benchmark 
+- [ ] create ingress controller
+- [ ] tbd
